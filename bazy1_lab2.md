@@ -2,7 +2,7 @@
 
 Autor: [Artur Kręgiel](https://github.com/arkregiel)
 
-Prowadząca: [mgr in. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegier)
+Prowadząca: [mgr inż. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegier)
 
 ## Zadanie 1
 
