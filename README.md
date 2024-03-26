@@ -4,3 +4,5 @@ Prowadząca: [mgr in. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegier
 
 - [Zajęcia 2 - Podstawy SQL](./bazy1_lab2.md)
 - [Zajęcia 3 - Funkcje agregujące](./bazy1_lab3.md)
+- [Zajęcia 4 - Złączenia](./bazy1_lab4.md)
+
