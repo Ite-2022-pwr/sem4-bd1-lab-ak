@@ -1,4 +1,4 @@
-# Bazy danych 1 - laboratorium 5
+# Bazy danych 1 - laboratorium 6
 
 Autor: [Artur Kręgiel](https://github.com/arkregiel)
 

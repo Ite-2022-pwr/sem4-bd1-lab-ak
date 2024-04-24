@@ -8,4 +8,5 @@ Prowadząca: [mgr in. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegier
 - [Zajęcia 4 - Złączenia](./bazy1_lab4.md)
 - [Zajęcia 5 - Podzapytania](./bazy1_lab5.md)
 - [Zajęcia 6 - DML](./bazy1_lab6.md)
+- [Zajęcia 7 - DDL](./bazy1_lab7.md)
 
