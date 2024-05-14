@@ -11,3 +11,5 @@ Prowadząca: [mgr in. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegier
 - [Zajęcia 7 - DDL](./bazy1_lab7.md)
 - [Zajęcia 8 - Kolokwium 1](./bazy1_kolokwium1.md)
 - [Zajęcia 9 - Widoki](./bazy1_lab9.md)
+- [Zajęcia 10 - Sekwencje i indeksy](./bazy1_lab10.md)
+
