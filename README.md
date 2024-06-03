@@ -12,4 +12,6 @@ Prowadząca: [mgr in. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegier
 - [Zajęcia 8 - Kolokwium 1](./bazy1_kolokwium1.md)
 - [Zajęcia 9 - Widoki](./bazy1_lab9.md)
 - [Zajęcia 10 - Sekwencje i indeksy](./bazy1_lab10.md)
+- [Zajęcia 11 - Sumy częściowe i tabele krzyżowe](./bazy1_lab11.md)
+- [Zajęcia 12 - PL/SQL 1](./bazy1_lab12.md)
 
