@@ -14,4 +14,5 @@ Prowadząca: [mgr in. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegier
 - [Zajęcia 10 - Sekwencje i indeksy](./bazy1_lab10.md)
 - [Zajęcia 11 - Sumy częściowe i tabele krzyżowe](./bazy1_lab11.md)
 - [Zajęcia 12 - PL/SQL 1](./bazy1_lab12.md)
+- [Zajęcia 13 - PL/SQL 2](./bazy1_lab13.md)
 
