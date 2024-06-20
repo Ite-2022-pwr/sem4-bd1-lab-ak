@@ -1,6 +1,6 @@
 # Bazy danych 1 - laboratoria
 
-Prowadząca: [mgr in. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegier)
+Prowadząca: [mgr inż. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegier)
 
 - Zajęcia 1 - organizacyjne
 - [Zajęcia 2 - Podstawy SQL](./bazy1_lab2.md)
