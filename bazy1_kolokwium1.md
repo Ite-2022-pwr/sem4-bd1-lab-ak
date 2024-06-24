@@ -1,6 +1,8 @@
 # Bazy danych 1 - kolokwium 1
 
-Artur Kręgiel 272989
+Autor: [Artur Kręgiel](https://github.com/arkregiel)
+
+Prowadząca: [mgr inż. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegier)
 
 ## Zadanie 1
 
