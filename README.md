@@ -15,4 +15,4 @@ Prowadząca: [mgr inż. Weronika Węgier](https://www.kssk.pwr.edu.pl/users/wegi
 - [Zajęcia 11 - Sumy częściowe i tabele krzyżowe](./bazy1_lab11.md)
 - [Zajęcia 12 - PL/SQL 1](./bazy1_lab12.md)
 - [Zajęcia 13 - PL/SQL 2](./bazy1_lab13.md)
-
+- [Zajęcia 14 - Kolokwium 2](./bazy1_kolokwium2.md)
